@@ -11,7 +11,7 @@
 
 
 
-### 쪽지 보내기
+## 쪽지 보내기
 > 쪽지 보내기 
 <p align="center">
   <img width="800"  src="/images/sendMsg.png">
@@ -25,14 +25,13 @@
 </p>
 
 
-
+## 커뮤니티 게시판 
 > 익명 커뮤니티 게시판 
 <p align="center">
   <img width="800"  src="/images/anony.png">
 </p>
 
-
-
+## 강의 정보 필터링 
 > 강의 정보 필터링 
 <p align="center">
   <img width="800"  src="/images/addlecture.png">
