@@ -11,13 +11,14 @@
 
 
 
+### 쪽지 보내기
 > 쪽지 보내기 
 <p align="center">
   <img width="800"  src="/images/sendMsg.png">
 </p>
 
 
-
+## 인기 강좌 추천 
 > 인기 강의 추천 
 <p align="center">
   <img width="800"  src="/images/main.png">
