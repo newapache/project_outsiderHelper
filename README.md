@@ -1,6 +1,17 @@
 # project_outsiderHelper
 
 
+
+
+## 개발 환경 
+
+
+| Server-Side                | Database  | API | IDE
+| ---                 | ---    | ---        | ---
+| Ubuntu Server 16.04 LTS(AWS EC2)    | Firbase realtime database | Google Map places API      |  Android studio 3.1.3
+| Ant Media Server 1.2.6 Release(방송용 서버 구축) | Mysql (AWS RDS)  |       | 
+
+
 <p align="center">
   <img width="700"  src="/images/system.png">
 </p>
