@@ -5,6 +5,10 @@
 
 ## 개발 환경 
 
+Database - 
+Server - 
+Ide - 
+lang - 
 
 <p align="center">
   <img width="600"  src="/images/system.png">
@@ -17,7 +21,8 @@
 
 ## 쪽지 보내기
 
-> 쪽지 보내기 [~.java](htttp)
+> 쪽지 보내기 - [~.java](htttp)
+
 익명 어쩌구 
 
 <p align="center">
