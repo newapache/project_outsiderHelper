@@ -5,12 +5,6 @@
 
 
 
-<p align="center">
-  <img width="600"  src="/images/system.png">
-</p>
-
-
-
 # 요청 흐름
 ##  쪽지 보내기
 
