@@ -8,8 +8,8 @@
 # 요청 흐름
 ##  쪽지 보내기
 
-> 쪽지 보내기 - [~.java](htttp)
-익명 / 회원 간 
+> 쪽지 보내기 - [.java](htttp)
+
 
 <p align="center">
   <img width="800"  src="/images/sendMsg.png">
@@ -17,20 +17,20 @@
 
 
 ## 인기 강좌 추천 
-> 인기 강의 추천 
+> 인기 강의 추천 - [.java](htttp)
 <p align="center">
   <img width="800"  src="/images/main.png">
 </p>
 
 
 ## 커뮤니티 게시판 
-> 익명 커뮤니티 게시판 
+> 익명 커뮤니티 게시판 - [.java](htttp)
 <p align="center">
   <img width="800"  src="/images/anony.png">
 </p>
 
 ## 강의 정보 필터링 
-> 강의 정보 필터링 
+> 강의 정보 필터링 - [.java](htttp)
 <p align="center">
   <img width="800"  src="/images/addlecture.png">
 </p>
