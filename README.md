@@ -17,7 +17,7 @@
 
 
 ## 인기 강좌 추천 
-> 인기 강의 추천 - [.java](htttp)
+> 인기 강의 추천 - [MainRankController.java](https://github.com/newapache/project_outsiderHelper/blob/master/boot/src/controller/main/MainRankController.java)
 <p align="center">
   <img width="800"  src="/images/main.png">
 </p>
